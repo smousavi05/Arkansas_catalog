@@ -5,7 +5,7 @@ A well-documented case of seismic activity potentially induced by wastewater inj
 
 Several earthquake catalogs exist for this sequence based on different detection methods: Horton (2012) (ANSS) and  Ogwari et al. (2016) based on STA/LTA, Huang and Beroza, (2015) based on templet matching, Yoon et al., (2017) based on FAST, and Mousavi et al (2018) based on deep learning. August 2010 is the overlapping time period in these catalogs, hence we made a unified catalog for this period combining information of all the above catalogs containing 3788 events. Most of these events are microearthquakes with local magnitudes ranging from -1.3 to 0.5 associated with hydraulic fracturing or wastewater injection. Events are located within a 2 km area at 2 to 4 km depths (Figure 2). 
 
-![Figure 1. Epicentral and cross-sectional distributions of seismicity in the study area (between 7 July and 20 October 2010). Marker sizes are scaled to event sizes. Seismic stations are shown by white triangles and black diamonds are disposal wells. The Enders fault is shown by a solid black line. (Figure from Mousavi et al 2017)](figure 1.jp2)
+![Figure 1. Epicentral and cross-sectional distributions of seismicity in the study area (between 7 July and 20 October 2010). Marker sizes are scaled to event sizes. Seismic stations are shown by white triangles and black diamonds are disposal wells. The Enders fault is shown by a solid black line. (Figure from Mousavi et al 2017)](figure 1.pdf)
 
 ![Figure 2. Distribution of event magnitudes and depths in the unified catalog]()
 
