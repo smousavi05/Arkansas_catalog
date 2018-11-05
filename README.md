@@ -7,6 +7,8 @@ Several earthquake catalogs exist for this sequence based on different detection
 
 ![Figure 1. Epicentral and cross-sectional distributions of seismicity in the study area (between 7 July and 20 October 2010). Marker sizes are scaled to event sizes. Seismic stations are shown by white triangles and black diamonds are disposal wells. The Enders fault is shown by a solid black line. (Figure from Mousavi et al 2017).](F1.png)
 
+Figure 1. Epicentral and cross-sectional distributions of seismicity in the study area (between 7 July and 20 October 2010). Marker sizes are scaled to event sizes. Seismic stations are shown by white triangles and black diamonds are disposal wells. The Enders fault is shown by a solid black line. (Figure from Mousavi et al 2017).
+
 ![Figure 2. Distribution of event magnitudes and depths in the unified catalog]()
 
 References
